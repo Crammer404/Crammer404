@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Crammer404</h1>
 <h3 align="center">Aspiring FullStack Developer | Crafting Engaging Digital Experiences</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crammer404&show_icons=true&theme=tokyonight" alt="Crammer404 GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crammer404&layout=compact&theme=tokyonight" alt="Crammer404 Most Used Languages">
-</div>
-
 <hr />
 
 <h3 align="center">🚀 Languages & Tools:</h3>
@@ -13,7 +8,7 @@
 <div align="center">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"></a>
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40"></a>
-  <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40"></a>
+  <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40"></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"></a>
