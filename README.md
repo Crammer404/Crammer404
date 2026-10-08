@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Crammer404</h1>
-<h3 align="center">Aspiring FullStack Developer | Crafting Engaging Digital Experiences</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <hr />
 
